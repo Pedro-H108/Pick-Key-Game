@@ -1,15 +1,17 @@
-#**O Projeto**
+# Pick Key Game
 
-Projeto desenvolvido com o intuito de trabalhar front-end e back-end. Foi desenvolvido um sistema de cadastro e login para acessar um jogo de digitação.
+## The Project
 
-#**Tecnologias**
+This project was developed with the aim of working on both front-end and back-end. A registration and login system was created to access a typing game.
 
-HTML, CSS, JavaScript e PHP.
+## Technologies
 
-#**O Jogo**
+HTML, CSS, JavaScript, and PHP were the technologies used.
 
-O jogo consiste em digitar, através de um teclado virtual, a palavra que aparece na tela. Entretanto, a cada tecla digitada, a posição das teclas é embaralhada aleatoriamente, trabalhando assim a atenção seletiva do usuário.
+## The Game
 
-#**Autor**
+The game involves typing, using a virtual keyboard, the word displayed on the screen. However, with each key press, the positions of the keys are randomly shuffled, thereby engaging the user's selective attention.
+
+## Author
 
 Pedro Henrique de Souza
