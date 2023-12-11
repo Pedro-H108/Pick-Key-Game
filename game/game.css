@@ -1,0 +1,86 @@
+body {
+  background-color: #3a30c2;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  width: 99vw;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0;
+}
+
+#container-game {
+  border: black solid 2px;
+  height: 95vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #b0fcff;
+}
+
+#buttons-container {
+  display: flex;
+  max-width: 500px;
+  flex-wrap: wrap;
+}
+
+#buttons-container > button {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 1px;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  background-color: #2ff4fa;
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+#input {
+  border: 2px solid black;
+  width: 360px;
+  height: 40px;
+  min-height: 40px;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+}
+
+#level {
+  font-size: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+#word {
+  font-size: 35px;
+  margin-top: 0px;
+}
+
+#cron {
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+#turnBtn {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 1px;
+  font-weight: bold;
+  font-size: 35px;
+  color: black;
+  background-color: #2ff4fa;
+  cursor: pointer;
+  width: 60px;
+  height: 50px;
+  border-radius: 10px;
+}
