@@ -6,7 +6,7 @@ This project was developed with the aim of working on both front-end and back-en
 
 ## Technologies
 
-HTML, CSS, JavaScript, and PHP were the technologies used.
+HTML, CSS, JavaScript and PHP were the technologies used.
 
 ## The Game
 
